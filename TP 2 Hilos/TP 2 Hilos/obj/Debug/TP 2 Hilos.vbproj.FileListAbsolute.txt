@@ -1,0 +1,12 @@
+C:\Users\PC1\source\repos\TP 2 Hilos\TP 2 Hilos\bin\Debug\TP 2 Hilos.exe.config
+C:\Users\PC1\source\repos\TP 2 Hilos\TP 2 Hilos\bin\Debug\TP 2 Hilos.exe
+C:\Users\PC1\source\repos\TP 2 Hilos\TP 2 Hilos\bin\Debug\TP 2 Hilos.pdb
+C:\Users\PC1\source\repos\TP 2 Hilos\TP 2 Hilos\bin\Debug\TP 2 Hilos.xml
+C:\Users\PC1\source\repos\TP 2 Hilos\TP 2 Hilos\obj\Debug\TP 2 Hilos.vbproj.AssemblyReference.cache
+C:\Users\PC1\source\repos\TP 2 Hilos\TP 2 Hilos\obj\Debug\TP_2_Hilos.Form1.resources
+C:\Users\PC1\source\repos\TP 2 Hilos\TP 2 Hilos\obj\Debug\TP_2_Hilos.Resources.resources
+C:\Users\PC1\source\repos\TP 2 Hilos\TP 2 Hilos\obj\Debug\TP 2 Hilos.vbproj.GenerateResource.cache
+C:\Users\PC1\source\repos\TP 2 Hilos\TP 2 Hilos\obj\Debug\TP 2 Hilos.vbproj.CoreCompileInputs.cache
+C:\Users\PC1\source\repos\TP 2 Hilos\TP 2 Hilos\obj\Debug\TP 2 Hilos.exe
+C:\Users\PC1\source\repos\TP 2 Hilos\TP 2 Hilos\obj\Debug\TP 2 Hilos.xml
+C:\Users\PC1\source\repos\TP 2 Hilos\TP 2 Hilos\obj\Debug\TP 2 Hilos.pdb
